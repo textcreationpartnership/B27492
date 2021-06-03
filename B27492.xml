@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notes on the case on Sir John Danvers's settlement.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27492</idno><idno type="EEBO-CITATION">99885936</idno>
+  <idno type="VID">188539</idno>
+  <idno type="EEBO-PROQUEST">2248535071</idno>
+  
+            <idno type="STC">Wing N1393</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[38]</idno>
+            <idno type="STC">ESTC R225209</idno>
+            <idno type="PROQUEST">ocm99885936</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885936e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188539)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Notes on the case on Sir John Danvers's settlement.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188539:1"/>
+            <head>NOTES ON THE CASE ON Sir JOHN DANVERS'S Settlement.</head>
+            <opener>It is humbly offered,</opener>
+            <p>THAT Estates Tail are alienable by the Tenant in Tail, by Fine or Recovery: and forfeitable for Treason by him committed, notwithstanding the Statute <hi>de Donis conditionalibus;</hi> as is agreed by all.</p>
+            <p>That thereby the Protection of Estates Tail for the Issue by that Statute being gone, Estates Tail are justly esteemed absolutely in the power of the Te<g ref="char:EOLhyphen"/>nant in Tail; and no Consideration is had of the possibility of the state coming to his Chil<g ref="char:EOLhyphen"/>dren, if he do not dispose of it: For which reason for many Years last past, no Person hath been made Tenant in Tail, where it was not intenced to preserve the Estate settled, absolutely in his Power to dispose it from his Children.</p>
+            <p>That where the Estate is intended to be preserved for the Children, against the Acts or For<g ref="char:EOLhyphen"/>feitures of the Father, the Father is made Tenant for Life, with Remainder to all his Sons successi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely in Tail, and thereby the Estate is absolutely secured to the Issue, whatever Mis<g ref="char:EOLhyphen"/>fortune happen to the Father: In this form are the Settlements of almost all the Great Families in <hi>England;</hi> which will not at all be weakned, although an Estate Tail be forfeitable for Treason.</p>
+            <p>That if Sir <hi>John Danvers</hi> had been made Tenant for Life, with Remainder to his Sons successively in Tail, the Interest of his Children had not been forfeited by the Words in the Act of Pains and Penalties, as was adjudged in the Case of <hi>Tichburn,</hi> Son of one of the Re<g ref="char:EOLhyphen"/>gicides, whose Estate being so settled, was recovered after his Death, from <hi>Lewen,</hi> who had purchased it from the Crown.</p>
+            <p>That Sir <hi>John Danvers</hi>'s Estate Tail is forfeited by the Comprehensive Words, Of all Sir <hi>John Danvers</hi>'s Rights and Interests; for he had the Estate Tail absolutely in him to alien or forfeit; and therefore the Estate Tail was a Right and Interest in him, within the Words of that Act; for the Estate Tail can be no more said to be the Issue's in the Life of the Te<g ref="char:EOLhyphen"/>nant in Tail, than an Estate in Fee to be the Heir's in the Life of the Ancestor.</p>
+            <p>That the Forfeiture of a Person Attaint for Treason, is not because he is Attaint, but for that he is Guilty of Treason of which the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttainder is only an Evidence: And therefore the Forfeiture is of the Estate he had at the time when the Offence was Committed.</p>
+            <p>That the Act of Pains and Penalties hath declared Sir <hi>John Danvers</hi> to be Guilty of High Treason, which is equal to the Evidence of an Attainder: Therefore the Act proceeds with<g ref="char:EOLhyphen"/>out Attainder, to give a Forfeiture of Estate as for High Treason, and makes it not material, Attaint or not Attaint; the Forfeiture not depending on the Attainder, but on the Offence, and the words giving the Forfeiture.</p>
+            <p>That the Act of Pains and Penalties is a particular Act, and extends only to the Persons therein named, and their Estates, and not to any other who may be any way after attainted for Treason: And the adjudging th<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il of Sir <hi>John Danvers</hi> to be forfeited by it, cannot have any manner of influen<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be any president touching Forfeitures on At<g ref="char:EOLhyphen"/>tainders to be had in any Court of Law.</p>
+            <p>That the words of Forfeiture in the Act 12 <hi>Car.</hi> 2. attainting the Murtherers of King <hi>Charles</hi> the First, being the same with the words of Forfeiture in the Act of Pains and Penal<g ref="char:EOLhyphen"/>ties; The Attainders of them therein mentioned to be by Verdict o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Outlawl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, not being confirmed by the said Act, may be reversed for Error, and then their Estates Tail enjoy<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> under the Act of Attainder, since the making of it as forfeited, will be subject to the same Question as now made in the Case of Sir <hi>John Danvers.</hi>
+            </p>
+            <p>That if it be adjudged, That the comprehensive words in the Act of Pains and Penalties for want of t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e words Estate Tail, shall not extend to Forfeit the Estate Tail of Sir <hi>John Dan<g ref="char:EOLhyphen"/>vers;</hi> It may for the same reason draw in Question the Title of all the Estates Tail, claimed as Forfeited by <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, since the Statute of <hi>6 Hen. 8.</hi> under the Words of Estates of Inh <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> te Tail not being in that Statute. And also for the same reason, may <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Title of all the Estates Tail, which having been setled for Superstiti<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dged to be given to the Crown, by the Act of <hi>Edward</hi> the Sixth, the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng mentioned in that Statute.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
